@@ -1,0 +1,41 @@
+{
+	"name": "t-rex-walless",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": {
+		"dev": "metacraft"
+	},
+	"keywords": [
+		"game",
+		"react",
+		"chrome",
+		"dinosaur",
+		"walless"
+	],
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-native-reanimated": "^3.0.2",
+		"react-native-web": "^0.18.12"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.21.3",
+		"@babel/preset-env": "^7.20.2",
+		"@babel/preset-react": "^7.18.6",
+		"@babel/preset-typescript": "^7.21.0",
+		"@metacraft/cli": "^0.0.63",
+		"@types/react": "^18.0.28",
+		"@types/react-native": "^0.71.2",
+		"babel": "^6.5.2",
+		"babel-cli": "^6.5.1",
+		"babel-core": "^6.9.1",
+		"babel-loader": "^6.2.4",
+		"babel-plugin-module-resolver": "^5.0.0",
+		"babel-plugin-react-native-web": "^0.18.12",
+		"copy-webpack-plugin": "^11.0.0",
+		"metro-react-native-babel-preset": "^0.76.0",
+		"turbo": "^1.8.3",
+		"typescript": "^5.0.2",
+		"url-loader": "^4.1.1"
+	}
+}
